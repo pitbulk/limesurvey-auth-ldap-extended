@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>AuthLDAPExtended</name>
+        <type>plugin</type>
+        <creationDate>2025-05-15</creationDate>
+        <lastUpdate>2025-05-15</lastUpdate>
+        <author>Sixto Martin</author>
+        <authorUrl>http://saml.info</authorUrl>
+        <version>1.0.0</version>
+        <license>Commercial</license>
+        <description><![CDATA[Plugin: LDAP authentication that extends the AuthLDAP base plugin]]></description>
+        <supportUrl>https://saml.info</supportUrl>
+    </metadata>
+
+    <compatibility>
+        <version>6.0</version>
+    </compatibility>
+
+    <updaters disabled="disabled">
+    </updaters>
+</config>
