@@ -8,7 +8,7 @@
         <author>Sixto Martin</author>
         <authorUrl>http://saml.info</authorUrl>
         <version>1.0.0</version>
-        <license>Commercial</license>
+        <license>GNU General Public License version 2 or later</license>
         <description><![CDATA[Plugin: LDAP authentication that extends the AuthLDAP base plugin]]></description>
         <supportUrl>https://saml.info</supportUrl>
     </metadata>
